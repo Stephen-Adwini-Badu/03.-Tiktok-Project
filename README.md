@@ -37,7 +37,7 @@ This project explores user engagement and content performance on TikTok by analy
    - Evaluated models based on accuracy, precision, recall, and F1 scores.
 
 ### Visualization
-- Generated insightful visualizations to showcase patterns and relationships in the data.
+- Generate insightful visualizations to showcase patterns and relationships in the data.
 
 ## Results
 - **T-Test Analysis**: Determined the impact of verification status on video performance.
