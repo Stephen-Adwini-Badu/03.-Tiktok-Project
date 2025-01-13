@@ -39,14 +39,6 @@ This project explores user engagement and content performance on TikTok by analy
 ### Visualization
 - Generated insightful visualizations to showcase patterns and relationships in the data.
 
-## Requirements
-The project utilizes the following Python packages:
-- **pandas**: For data analysis and manipulation.
-- **numpy**: For numerical operations.
-- **scipy**: For statistical testing.
-- **scikit-learn**: For regression and classification models.
-- **matplotlib/seaborn**: For creating visualizations.
-
 ## Results
 - **T-Test Analysis**: Determined the impact of verification status on video performance.
 - **Regression Insights**: Identified user behavior trends among verified accounts.
