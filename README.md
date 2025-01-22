@@ -38,8 +38,8 @@ This project explores user engagement and content performance on TikTok by analy
    - Used machine learning techniques to classify comments and video content into claims or opinions.
    - Evaluated models based on accuracy, precision, recall, and F1 scores.
    - Utilized confusion matrices to visualize model results
-     
-![Image](https://github.com/user-attachments/assets/b8200788-813d-41bb-a522-62c80e3ec677)
+
+![1 1](https://github.com/user-attachments/assets/3b17b691-02ff-4324-9e40-b2e8776fefc9)
 
 ### Feature Importance
 - Generated visualizations to showcase the most impactful variables in each model.
