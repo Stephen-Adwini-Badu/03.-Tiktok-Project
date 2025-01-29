@@ -32,14 +32,18 @@ This project explores user engagement and content performance on TikTok by analy
    - Perform exploratory data analysis (EDA) to identify key predictors.
    - Train and validate the regression model on the verified user subset.
      
-![Image](https://github.com/user-attachments/assets/d942bab8-eb15-4b2b-870c-316ad12a9378)
+![3 1](https://github.com/user-attachments/assets/a4c95e88-db4d-4df8-85f3-003969d10646)
 
 3. **Classification Modeling**:
    - Used machine learning techniques to classify comments and video content into claims or opinions.
    - Evaluated models based on accuracy, precision, recall, and F1 scores.
    - Utilized confusion matrices to visualize model results
-
+    
 ![1 1](https://github.com/user-attachments/assets/3b17b691-02ff-4324-9e40-b2e8776fefc9)
+
+   - Utilized roc and calibration curves to visualize model results
+
+![3 2](https://github.com/user-attachments/assets/7123a8d2-bd5c-4b89-a8c5-e6b2cb837813)
 
 ### Feature Importance
 - Generated visualizations to showcase the most impactful variables in each model.
